@@ -6,7 +6,7 @@ A curated list of my favourite things in _Vim_ 🌟
 
 1.  [How to Learn Vim](#how-to-learn-vim)
 2.  [Videos](#videos)
-3.  [Books](#Books)
+3.  [Books](#books)
 4.  [Articles](#articles)
 5.  [Websites](#websites)
 
