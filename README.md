@@ -9,6 +9,7 @@ A curated list of my favourite things in _Vim_ 🌟
 3.  [Books](#books)
 4.  [Articles](#articles)
 5.  [Websites](#websites)
+6.  [Color Schemes](#color-schemes)
 
 ## How to Learn Vim
 
@@ -48,3 +49,14 @@ _A collection of useful resources for starting your vim journey._
 * [Vim Awesome](http://vimawesome.com/)
 * [Vim Colors](http://vimcolors.com/)
 * [Vim on Reddit](http://reddit.com/r/vim)
+
+## Color Schemes
+
+_A collection of high quality color schemes for Vim. The majority of themes listed 
+also have matching iterm2 themes._ 
+
+* [Nord Vim](https://github.com/arcticicestudio/nord-vim)
+* [One Half](https://github.com/sonph/onehalf/tree/master/vim)
+* [Nova Vim](https://trevordmiller.com/projects/nova)
+* [Solarized 8](https://github.com/lifepillar/vim-solarized8)
+* [Quantum](https://github.com/tyrannicaltoucan/vim-quantum)
