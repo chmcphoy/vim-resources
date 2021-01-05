@@ -55,8 +55,10 @@ _A collection of useful resources for starting your vim journey._
 _A collection of high quality color schemes for Vim. The majority of themes listed 
 also have matching iterm2 themes._ 
 
+* [Oceanic-Next](https://github.com/mhartington/oceanic-next)
+* [Cosmic Latte](https://github.com/nightsense/cosmic_latte)
 * [Nord Vim](https://github.com/arcticicestudio/nord-vim)
+* [Deep Space](https://github.com/tyrannicaltoucan/vim-deep-space)
+* [Seoul256](https://github.com/junegunn/seoul256.vim)
+* [PaperColor](https://github.com/NLKNguyen/papercolor-theme)
 * [One Half](https://github.com/sonph/onehalf/tree/master/vim)
-* [Nova Vim](https://trevordmiller.com/projects/nova)
-* [Solarized 8](https://github.com/lifepillar/vim-solarized8)
-* [Quantum](https://github.com/tyrannicaltoucan/vim-quantum)
