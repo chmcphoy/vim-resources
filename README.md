@@ -52,7 +52,7 @@ A curated list of my favourite things in _Vim_ 🌟
 
 ## Color Schemes
 
->A collection of high quality color schemes for Vim. The majority of themes listed also have matching iterm2 themes.
+>A collection of high quality color schemes for Vim. The majority of themes listed also have a matching iterm2 theme.
 
 * [Oceanic-Next](https://github.com/mhartington/oceanic-next)
 * [Cosmic Latte](https://github.com/nightsense/cosmic_latte)
